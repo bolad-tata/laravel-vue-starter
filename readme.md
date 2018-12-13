@@ -27,7 +27,7 @@
 * More screenshots in /public/screenshots
 
 ### Installation Instructions
-* `git clone https://github.com/kJamesy/laravel-vue-starter.git`
+* `git clone https://github.com/bolad-tata/laravel-vue-starter.git`
 * `cd laravel-vue-starter`
 * `composer install`
 * `cp .env.example .env`
